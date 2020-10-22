@@ -1,0 +1,41 @@
+ 
+  
+
+return 0;
+}
+Notice the two lines in this program immediately after the first
+comment; this is where the changes occur. First, in the #include
+
+Statement, there is no -h after the name iostream. And second,
+is new. Although both the
+
+9 cxamined in detail
+
+ 
+
+a namespa
+
+ 
+  
+
+the next line, specifying
+new-style headers and r
+
+   
+
+lamespaces
+is in order now.
+
+ 
+
+ 
+
+. later in this book, a brief overview
+7++ HEADERS
+As you know from y ir C programming experience, when you use a
+3 in a program, } nust include its header file. This is .
+
+library functi
+
+ 
+
